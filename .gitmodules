@@ -1,0 +1,3 @@
+[submodule "NDI-Widget"]
+	path = NDI-Widget
+	url = https://github.com/NightVsKnight/NDI-Widget.git

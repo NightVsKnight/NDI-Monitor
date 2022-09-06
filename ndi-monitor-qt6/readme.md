@@ -1,0 +1,2 @@
+# ndi-monitor-qt6
+
