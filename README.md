@@ -1,5 +1,7 @@
 # NDI-Monitor
 
+UPDATE: Deprecated by https://github.com/swooby/QtNdiMonitorCapture
+
 Qt6 based NDI Monitor app based on the following references:
 * https://github.com/jleben/ndi-tools Qt Quick NDI Viewer **AND** Sender [albiet, command-line fixed...not actually "Screen Capture"]?
 * https://github.com/smilingthax/xndiview NDI Viewer for X11
